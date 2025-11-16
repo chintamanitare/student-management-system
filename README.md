@@ -62,6 +62,7 @@ coaching_system/
 │   ├── attendance.php
 │   ├── announcements.php
 │   └── chart_data.php
+|   └── my_students.php
 ├── css/
 │   └── style.css
 ├── js/
@@ -77,6 +78,7 @@ coaching_system/
 ├── database.sql
 ├── login.php
 ├── logout.php
+├── unauthorized.php              
 ├── admin_dashboard.php
 ├── teacher_dashboard.php
 ├── student_dashboard.php
@@ -85,6 +87,7 @@ coaching_system/
 ├── mark_attendance.php
 ├── view_report.php
 ├── announcements.php
+├── my_students.php 
 └── README.md
 ```
 
